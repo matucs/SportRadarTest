@@ -1,9 +1,9 @@
 # Introduction 
 There is 4 simple sample code as follow in brief:
-1- window resizing
-2- Promise function
-3- async function
-4- find in an array
+ - window resizing
+ - Promise function
+ - async function
+ - find in an array
 ## Available Scripts
 
 In the project directory, you can run:
