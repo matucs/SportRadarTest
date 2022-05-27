@@ -1,7 +1,9 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# Introduction 
+There is 4 simple sample code as follow in brief:
+1- window resizing
+2- Promise function
+3- async function
+4- find in an array
 ## Available Scripts
 
 In the project directory, you can run:
